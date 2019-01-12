@@ -1,0 +1,43 @@
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+#main {
+	background-color: #D6D6D7;
+}
+
+header {
+	text-align: center;
+}
+
+#title {
+	font-size: 22px;
+	padding-top: 10px;
+}
+
+#img-caption {
+	font-style: italic;
+}
+
+img {
+	width: 40%;
+	height: 70%;
+	display: block;
+ 	margin-left: auto;
+  	margin-right: auto;
+  	border: 10px solid white;
+}
+
+article{
+	margin-left: 300px;
+}
+
+h3 {
+	margin-left: 60px;
+}
+
+footer {
+	text-align: center;
+	padding-bottom: 20px;
+}
+
